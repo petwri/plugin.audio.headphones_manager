@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Settings">
+        <setting label="Hostname" type="text" id="hostname" default="localhost" />
+        <setting label="Port" type="number" id="port" default="8081" />
+        <setting label="API-key" type="text" id="api" />
+    </category>
+</settings>
