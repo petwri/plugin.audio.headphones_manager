@@ -2,6 +2,7 @@
 <addon id="plugin.audio.headphones_manager" name="Headphones Manager" version="0.0.1" provider-name="PW">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.requests" version="2.0.0"/>
     </requires>
     <extension point="xbmc.python.script" library="addon.py">
         <provides>executable</provides>
